@@ -5,7 +5,7 @@
 - store : https://rexshackgaming.tebex.io
 
 # Description
-- RDR style menu system for QBCore RedM Edition
+- RDR style menu system for RedM
 
 # Installation
 1. extract the contents of the rsg_menubase.zip
