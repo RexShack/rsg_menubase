@@ -15,3 +15,6 @@
 # Support
 - discord : https://discord.gg/s5uSk56B65
 - email : rexshackuk@gmail.com
+
+# Thanks goes to Ktos93 for the original
+- https://github.com/RedEM-RP/redemrp_menu_base
